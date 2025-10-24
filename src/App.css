@@ -1,0 +1,46 @@
+#profile-picture
+{
+  width: 130px;
+  height: 130px;
+  border: 2px grey solid;
+}
+#img-and-name
+{
+  display: flex;
+  margin-left: 10px;
+  margin-bottom: 25px;
+
+}
+#username-text
+{
+  justify-content: center;
+  font-size: x-large;
+  align-content: center;
+  margin: 8px;
+}
+#search-bar
+{
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 80px;
+  width:500px;
+  font-size: xx-large;
+  border: 2px grey solid;
+}
+
+#search-button
+{
+  background-color: cornflowerblue;
+  margin: 5px;
+  font-size: x-large;
+  border: 2px grey solid;
+}
+#search-button:hover
+{
+  background-color:lightblue;
+}
+#search-whole
+{
+  margin-bottom:10px
+}
+
